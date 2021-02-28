@@ -1,0 +1,16 @@
+{
+  "name": "problem3",
+  "version": "1.0.0",
+  "description": "Build a area and volume calculation API for various objects based on query params",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Rahit Mondal",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
